@@ -8,3 +8,4 @@ In this project, there will be another option. If the customer question is about
 In Watson Discovery I have added ecobee3_userguide.
 
 Node_Red Dasboard link after deploying : https://node-red-znzdl.eu-gb.mybluemix.net/ui
+Youtube video link for above project: https://youtu.be/tqHZXR5pY0c
