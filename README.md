@@ -1,5 +1,5 @@
 # llSPS-INT-593-Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding
-Intelligent Customer Help Desk with Smart Document Understanding Intelligent Customer Help Desk with Smart Document Understanding This is repositroy build with the help of Watson Asistance,Discovery,Clould Function and Node Red app of IBM Cloud. It is made with the regard of partial fullfillment of Smartinternz Internship Program.
+Intelligent Customer Help Desk with Smart Document Understanding Intelligent Customer Help Desk with Smart Document Understanding This is repository build with the help of Watson Assistant, Discovery, Cloud Function and Node Red app of IBM Cloud. It is made with the regard of partial fulfillment of Smartinternz Internship Program at smartbrigde
 
 #Project Description : The typical customer care chatbot can answer simple questions, such as store locations and hours, directions, and maybe even making appointments. When a question falls outside of the scope of the pre-determined question set, the option is typically to tell the customer the question isn’t valid or offer to speak to a real person.
 
@@ -7,5 +7,5 @@ In this project, there will be another option. If the customer question is about
 
 In Watson Discovery I have added ecobee3_userguide.
 
-Node_Red Dasboard link after deploying : https://node-red-znzdl.eu-gb.mybluemix.net/ui
-Youtube video link for above project: https://youtu.be/tqHZXR5pY0c
+Node-Red Dashboard link after deploying : https://node-red-znzdl.eu-gb.mybluemix.net/ui
+Hope you all enjoyed. Thanks for watching
