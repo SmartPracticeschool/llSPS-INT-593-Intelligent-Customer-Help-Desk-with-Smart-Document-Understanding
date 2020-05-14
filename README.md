@@ -14,4 +14,4 @@ Youtube video link is : https://youtu.be/tqHZXR5pY0c
 
 
 
-The flow of node-red will found in nodered file defaults section as flow.json
+The flow of node-red will found in NodeREDZNZDL-master/defaults section as flow.json
