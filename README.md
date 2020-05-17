@@ -15,3 +15,5 @@ Youtube video link is : https://youtu.be/tqHZXR5pY0c
 
 
 The flow of node-red will found in NodeREDZNZDL-master/defaults section as flows.json file.
+
+You can find the discovery manual and cloud function code and assistant skill file above.

@@ -1,0 +1,1449 @@
+{
+  "intents": [
+    {
+      "intent": "Cancel",
+      "examples": [
+        {
+          "text": "i don't want a table anymore anymore"
+        },
+        {
+          "text": "nevermind"
+        },
+        {
+          "text": "forget it"
+        },
+        {
+          "text": "cancel that"
+        },
+        {
+          "text": "never mind"
+        },
+        {
+          "text": "i changed my mind"
+        },
+        {
+          "text": "cancel the request"
+        }
+      ],
+      "description": "Cancel the current request"
+    },
+    {
+      "intent": "Customer_Care_Appointments",
+      "examples": [
+        {
+          "text": "I want to talk in person with someone about my case"
+        },
+        {
+          "text": "can i make an appointment"
+        },
+        {
+          "text": "do you have availability next week"
+        },
+        {
+          "text": "can i book for tonight"
+        },
+        {
+          "text": "are you available on tuesday"
+        },
+        {
+          "text": "Can I book an in person session"
+        },
+        {
+          "text": "I would like to make an appointment to visit the nearest store to my location."
+        },
+        {
+          "text": "I would like to discuss my situation face to face"
+        },
+        {
+          "text": "Could I speak to someone in the store next tuesday?"
+        },
+        {
+          "text": "meet in store"
+        },
+        {
+          "text": "I prefer a face to face visit"
+        },
+        {
+          "text": "i'd like to come in for an appointment"
+        },
+        {
+          "text": "Make an appointment"
+        },
+        {
+          "text": "Set up an appt"
+        },
+        {
+          "text": "Store appointment"
+        },
+        {
+          "text": "Want to change my visit"
+        },
+        {
+          "text": "When can I meet with one of your employees at your store?"
+        },
+        {
+          "text": "What time can I meet the staff?"
+        },
+        {
+          "text": "i'd like to make an appointment"
+        },
+        {
+          "text": "can you make an appointment for me"
+        }
+      ],
+      "description": "Schedule or manage an in-store appointment."
+    },
+    {
+      "intent": "Goodbye",
+      "examples": [
+        {
+          "text": "bye"
+        },
+        {
+          "text": "arrivederci"
+        },
+        {
+          "text": "see ya"
+        },
+        {
+          "text": "good bye"
+        },
+        {
+          "text": "ciao"
+        },
+        {
+          "text": "so long"
+        }
+      ],
+      "description": "Good byes"
+    },
+    {
+      "intent": "Thanks",
+      "examples": [
+        {
+          "text": "much appreciated"
+        },
+        {
+          "text": "many thanks"
+        },
+        {
+          "text": "thanks"
+        },
+        {
+          "text": "thx"
+        },
+        {
+          "text": "thank you very much"
+        },
+        {
+          "text": "that's nice of you"
+        },
+        {
+          "text": "i appreciate it"
+        },
+        {
+          "text": "thank you"
+        }
+      ],
+      "description": "Thanks"
+    },
+    {
+      "intent": "Customer_Care_Store_Hours",
+      "examples": [
+        {
+          "text": "store hrs"
+        },
+        {
+          "text": "when can i visit your store"
+        },
+        {
+          "text": "when does the store close"
+        },
+        {
+          "text": "when do your stores open"
+        },
+        {
+          "text": "open hours store"
+        },
+        {
+          "text": "store open now"
+        },
+        {
+          "text": "Are you open on Sunday"
+        },
+        {
+          "text": "store open hours?"
+        },
+        {
+          "text": "how late are you open"
+        },
+        {
+          "text": "are stores open on sunday"
+        },
+        {
+          "text": "Hours of operation"
+        },
+        {
+          "text": "What time do you close today"
+        },
+        {
+          "text": "what time do you close on Sunday"
+        },
+        {
+          "text": "What time do you open on Saturdays"
+        },
+        {
+          "text": "What time do you close"
+        },
+        {
+          "text": "when do you close"
+        },
+        {
+          "text": "will you be open Memorial day"
+        },
+        {
+          "text": "will you open for christmas"
+        },
+        {
+          "text": "what are your hours"
+        },
+        {
+          "text": "What time is your store open on saturday?"
+        },
+        {
+          "text": "What time do stores close?"
+        },
+        {
+          "text": "What time does the central manchester store shut on a saturday?"
+        },
+        {
+          "text": "What time are you closing today?"
+        },
+        {
+          "text": "What are your hous?"
+        },
+        {
+          "text": "What are ur opening hours?"
+        },
+        {
+          "text": "What are the saturday opening times for the local store?"
+        },
+        {
+          "text": "What are the hours of operation?"
+        },
+        {
+          "text": "What are the business hours of the store nearest to me?"
+        },
+        {
+          "text": "Is the branch open now?"
+        },
+        {
+          "text": "How long are you open?"
+        },
+        {
+          "text": "How early do you open?"
+        },
+        {
+          "text": "Does the store in the city center opens till 8pm on weekends?"
+        },
+        {
+          "text": "Can you tell me how late the stores are open till?"
+        },
+        {
+          "text": "At what hour can I swing by?"
+        },
+        {
+          "text": "how late are you open tonight"
+        },
+        {
+          "text": "Are you open on sundays, and if so what are the hours?"
+        },
+        {
+          "text": "Are you open on bank holidays?"
+        },
+        {
+          "text": "Are you open during thanksgiving?"
+        },
+        {
+          "text": "Are the stores open early?"
+        },
+        {
+          "text": "will you open on christmas"
+        },
+        {
+          "text": "how late y'all stay up till"
+        },
+        {
+          "text": "how late are you there"
+        },
+        {
+          "text": "how early do you open on Saturdays"
+        },
+        {
+          "text": "Are you closed new Year's eve"
+        },
+        {
+          "text": "Are you closing early today"
+        },
+        {
+          "text": "What is the opening time for the washington store?"
+        },
+        {
+          "text": "store open"
+        },
+        {
+          "text": "store hours"
+        }
+      ],
+      "description": "Find business hours."
+    },
+    {
+      "intent": "General_Connect_to_Agent",
+      "examples": [
+        {
+          "text": "Call agent"
+        },
+        {
+          "text": "I don't want to talk to you"
+        },
+        {
+          "text": "I don't want to talk to a bot."
+        },
+        {
+          "text": "I dont want to talk to a computer"
+        },
+        {
+          "text": "call the manager"
+        },
+        {
+          "text": "I want to speak to a human"
+        },
+        {
+          "text": "I want to talk to the manager"
+        },
+        {
+          "text": "A real agent, please."
+        },
+        {
+          "text": "talk to a human"
+        },
+        {
+          "text": "Agent help"
+        },
+        {
+          "text": "Yes, take me to a real person"
+        },
+        {
+          "text": "Where is the closest agent?"
+        },
+        {
+          "text": "Send me to an agent"
+        },
+        {
+          "text": "I don't want to speak with a robot"
+        },
+        {
+          "text": "get me a person"
+        },
+        {
+          "text": "Can I connect to an agent?"
+        },
+        {
+          "text": "Can I speak to a human please?"
+        },
+        {
+          "text": "Can I speak to a live person?"
+        },
+        {
+          "text": "Can I speak to an advisor?"
+        },
+        {
+          "text": "Can I speak with somebody?"
+        },
+        {
+          "text": "Can I talk to someone?"
+        },
+        {
+          "text": "Can you assist me to connect to an agent?"
+        },
+        {
+          "text": "Can you connect me with a real person?"
+        },
+        {
+          "text": "Connect me to a live operator please."
+        },
+        {
+          "text": "Contact person"
+        },
+        {
+          "text": "Could you please transfer me to your master?"
+        },
+        {
+          "text": "Customer service representative please."
+        },
+        {
+          "text": "Do not want a robot?"
+        },
+        {
+          "text": "Hi can you transfer me"
+        },
+        {
+          "text": "How can I skip the recorded menu and go straight to a live person?"
+        },
+        {
+          "text": "Is there anyone there I can actually talk to for real?"
+        },
+        {
+          "text": "I need to speak to a representative. How would I go about doing so?"
+        },
+        {
+          "text": "I want agent"
+        },
+        {
+          "text": "I want a manager"
+        },
+        {
+          "text": "I want an agent to help me"
+        },
+        {
+          "text": "I want to talk to a person"
+        },
+        {
+          "text": "I would like to speak to a human"
+        },
+        {
+          "text": "I would like to speak to someone"
+        },
+        {
+          "text": "Need help from human"
+        },
+        {
+          "text": "Please assist me to get to an agent"
+        },
+        {
+          "text": "Operator please"
+        },
+        {
+          "text": "Please connect me to a live agent"
+        },
+        {
+          "text": "Please let me talk to a human being."
+        },
+        {
+          "text": "Pls connect"
+        },
+        {
+          "text": "Put me through to someone"
+        },
+        {
+          "text": "representative"
+        },
+        {
+          "text": "I want to speak to a person"
+        }
+      ],
+      "description": "Request a human agent."
+    },
+    {
+      "intent": "Customer_Care_Store_Location",
+      "examples": [
+        {
+          "text": "location please"
+        },
+        {
+          "text": "how do i find you"
+        },
+        {
+          "text": "what is the address"
+        },
+        {
+          "text": "where are you"
+        },
+        {
+          "text": "what's your location"
+        },
+        {
+          "text": "give me directions"
+        },
+        {
+          "text": "which cross streets are you on"
+        },
+        {
+          "text": "how can i get to you from grand central"
+        },
+        {
+          "text": "can you give me directions"
+        },
+        {
+          "text": "What is the store near my zip code?"
+        },
+        {
+          "text": "What is the nearest branch?"
+        },
+        {
+          "text": "What is the closest store to my address?"
+        },
+        {
+          "text": "Looking for a location"
+        },
+        {
+          "text": "I want to know about a store"
+        },
+        {
+          "text": "how do i get to your place"
+        },
+        {
+          "text": "Find store"
+        },
+        {
+          "text": "Where is?"
+        },
+        {
+          "text": "Where are you located?"
+        },
+        {
+          "text": "how do i get to your business"
+        },
+        {
+          "text": "I'd like to go to a store"
+        },
+        {
+          "text": "Where is your office?"
+        },
+        {
+          "text": "please suggest route from times square"
+        },
+        {
+          "text": "where are you located"
+        },
+        {
+          "text": "I need help with find a store"
+        },
+        {
+          "text": "Go to your company"
+        }
+      ],
+      "description": "Locate a physical store location or an address."
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "How have you been?"
+        },
+        {
+          "text": "How are you today?"
+        },
+        {
+          "text": "How are things going?"
+        },
+        {
+          "text": "yo"
+        },
+        {
+          "text": "hiya"
+        },
+        {
+          "text": "Good day"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Good to see you"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "Have you been well?"
+        },
+        {
+          "text": "What's up?"
+        },
+        {
+          "text": "What's new?"
+        },
+        {
+          "text": "Hey how are you doing"
+        },
+        {
+          "text": "Hello I am looking for some help here"
+        },
+        {
+          "text": "Hello Agent"
+        },
+        {
+          "text": "Hey there"
+        },
+        {
+          "text": "Hi there"
+        },
+        {
+          "text": "Hey twin"
+        },
+        {
+          "text": "Hi advisor"
+        },
+        {
+          "text": "Ok take me back"
+        },
+        {
+          "text": "Hey there all"
+        },
+        {
+          "text": "Who is this?"
+        },
+        {
+          "text": "You there"
+        },
+        {
+          "text": "How is it going?"
+        },
+        {
+          "text": "Hey you"
+        },
+        {
+          "text": "Looking good eve"
+        },
+        {
+          "text": "How r u?"
+        },
+        {
+          "text": "hi"
+        }
+      ],
+      "description": "Greetings"
+    },
+    {
+      "intent": "Help",
+      "examples": [
+        {
+          "text": "help me decide"
+        },
+        {
+          "text": "can you help"
+        },
+        {
+          "text": "what can i say"
+        },
+        {
+          "text": "what can i do"
+        },
+        {
+          "text": "i need assistance"
+        },
+        {
+          "text": "help me"
+        },
+        {
+          "text": "help"
+        },
+        {
+          "text": "can you assist me"
+        }
+      ],
+      "description": "Ask for help"
+    },
+    {
+      "intent": "Product_Information",
+      "examples": [
+        {
+          "text": "How do I set the time"
+        },
+        {
+          "text": "operating value of heater"
+        },
+        {
+          "text": "can i know the basic of operation"
+        },
+        {
+          "text": "how to on heater"
+        },
+        {
+          "text": "How do I access the settings"
+        },
+        {
+          "text": "how to start thermostat"
+        }
+      ],
+      "description": "User wants help using the thermostat"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "sys-number",
+      "values": []
+    },
+    {
+      "entity": "reply",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "yes",
+          "synonyms": [
+            "definitely",
+            "go for it",
+            "let's do it",
+            "ok",
+            "please",
+            "sure",
+            "why not",
+            "yeah",
+            "yes",
+            "you bet",
+            "you betcha",
+            "yep"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "no",
+          "synonyms": [
+            "definitely not",
+            "don't think so",
+            "dont think so",
+            "i think not",
+            "nope",
+            "not at this time",
+            "not now"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "zip_code",
+      "values": [
+        {
+          "type": "patterns",
+          "value": "US Zip",
+          "patterns": [
+            "(\\b|\\s)\\d{5}(\\b|\\s)"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "specialist",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Barbara",
+          "synonyms": [
+            "barbra"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Robert",
+          "synonyms": [
+            "bob"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Nicholas",
+          "synonyms": [
+            "nick"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Maria",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Derrik",
+          "synonyms": [
+            "derek",
+            "derik",
+            "derrik",
+            "derrick"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Brenda",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "holiday",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "independence day",
+          "synonyms": [
+            "7/4",
+            "fourth of july",
+            "july 4",
+            "july 4th",
+            "july fourth"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "valentine's day",
+          "synonyms": [
+            "valentine day",
+            "valentines day"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "christmas",
+          "synonyms": [
+            "christmas day",
+            "x man day",
+            "xmas",
+            "x mas",
+            "x-mas",
+            "x-mas day",
+            "xmas day"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "halloween",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "labor day",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "christmas eve",
+          "synonyms": [
+            "x mas eve",
+            "x-mas eve",
+            "xmas eve"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "new years eve",
+          "synonyms": [
+            "12-31",
+            "12/31",
+            "dec 31",
+            "dec 31st",
+            "new year's eve"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "new years",
+          "synonyms": [
+            "1/1",
+            "jan 1",
+            "jan 1st",
+            "jan first",
+            "january 1",
+            "january 1st",
+            "january first",
+            "new year",
+            "new year day",
+            "new years day"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "memorial day",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "thanksgiving",
+          "synonyms": [
+            "turkey day"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "sys-time",
+      "values": []
+    },
+    {
+      "entity": "landmark",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "grand central",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "times square",
+          "synonyms": [
+            "time sqaure",
+            "time square",
+            "times sqaure"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "empire state building",
+          "synonyms": [
+            "empire state",
+            "emprire state"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "heater",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "on",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "manual",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "heat",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "heater",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "check",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-date",
+      "values": []
+    },
+    {
+      "entity": "phone",
+      "values": [
+        {
+          "type": "patterns",
+          "value": "US Phone pattern",
+          "patterns": [
+            "(\\d{3})-(\\d{3})-(\\d{4})"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "webhooks": [
+    {
+      "url": "https://eu-gb.functions.cloud.ibm.com/api/v1/web/180050113%40kluniversity.in_dev/default/disc-action.json",
+      "name": "main_webhook",
+      "headers": []
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "output": {
+        "text": "OK. Let me know how I can help"
+      },
+      "parent": "node_22_1467833484410",
+      "metadata": {},
+      "conditions": "@reply:no",
+      "dialog_node": "node_21_1468350173406",
+      "previous_sibling": "node_19_1468350024009"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "OK. Transferring... [Use IBM Cloud Functions to connect to backend systems]"
+          ]
+        }
+      },
+      "parent": "node_22_1467833484410",
+      "metadata": {},
+      "conditions": "@reply:yes",
+      "dialog_node": "node_19_1468350024009"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "To get to our business from the Empire State Building, walk to Herald Square and take the N train to Union Square"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Directions",
+      "metadata": {},
+      "conditions": "@landmark:(empire state building)",
+      "dialog_node": "node_7_1482459200886",
+      "previous_sibling": "node_3_1522439390442"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "To get to our business from Grand Central, take the 4,5 or 6 train downtown to Union Square."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Directions",
+      "metadata": {},
+      "conditions": "@landmark:(grand central)",
+      "dialog_node": "node_4_1522439442155",
+      "previous_sibling": "node_8_1482459217052"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "To get to our business from Times Square, take the N train downtown to Union Square"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Directions",
+      "metadata": {},
+      "conditions": "@landmark:(times square)",
+      "dialog_node": "node_8_1482459217052",
+      "previous_sibling": "node_7_1482459200886"
+    },
+    {
+      "type": "standard",
+      "title": "Provide location",
+      "output": {
+        "text": {
+          "values": [
+            "We're located by Union Square on the corner of 13th and Broadway"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Directions",
+      "metadata": {},
+      "conditions": "true",
+      "dialog_node": "node_3_1522439390442"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Hello",
+            "Hi there",
+            "Hi. How can I help"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_13_1502484041694",
+      "metadata": {},
+      "dialog_node": "node_28_1522448362216",
+      "previous_sibling": "node_15_1488295465298"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Hello. Good afternoon",
+            "Hi there. It's a beautiful afternoon",
+            "Good afternoon. How can I help?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_13_1502484041694",
+      "metadata": {},
+      "conditions": "now().after('12:00:00') && now().before('16:59:59')",
+      "dialog_node": "node_1_1495022305143",
+      "previous_sibling": "node_16_1488295517679"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Hello. Good evening",
+            "Hi. Good evening",
+            "Hello. How can I help this evening?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_13_1502484041694",
+      "metadata": {},
+      "conditions": "now().after('17:00:00')",
+      "dialog_node": "node_15_1488295465298",
+      "previous_sibling": "node_1_1495022305143"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Hello. Good morning",
+            "It's a beautiful morning. Hello",
+            "Hi there. How can I help you this morning?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_13_1502484041694",
+      "metadata": {},
+      "conditions": "now().after('04:00:00') && now().before('11:59:59')",
+      "dialog_node": "node_16_1488295517679"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Our hours are Monday to Friday 10am to 8pm and Friday and Saturday 11am to 6pm."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Hours of Operation",
+      "context": {},
+      "metadata": {},
+      "conditions": " true",
+      "dialog_node": "node_6_1482426521282",
+      "previous_sibling": "node_2_1482424204936"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "We are open on @holiday regular hours"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Hours of Operation",
+      "context": {},
+      "metadata": {},
+      "conditions": "@holiday",
+      "dialog_node": "node_5_1482426503106",
+      "previous_sibling": "node_1_1522387330204"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "We are open on <? @sys-date.reformatDateTime(\"EEEEE\") ?> from 10am until 8pm"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Hours of Operation",
+      "context": {},
+      "metadata": {},
+      "conditions": "@sys-date.reformatDateTime(\"EEEEE\") == \"Monday\" || @sys-date.reformatDateTime(\"EEEEE\") == \"Tuesday\" || @sys-date.reformatDateTime(\"EEEEE\") == \"Wednesday\" || @sys-date.reformatDateTime(\"EEEEE\") == \"Thursday\" || @sys-date.reformatDateTime(\"EEEEE\") == \"Friday\"",
+      "dialog_node": "node_1_1522387330204",
+      "previous_sibling": "node_4_1482425833988"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Our hours on <? @sys-date.reformatDateTime(\"EEEEE\") ?> are 11am to 6pm."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Hours of Operation",
+      "context": {},
+      "metadata": {},
+      "conditions": "@sys-date.reformatDateTime(\"EEEEE\") == \"Saturday\" || @sys-date.reformatDateTime(\"EEEEE\") == \"Sunday\"",
+      "dialog_node": "node_2_1482424204936",
+      "previous_sibling": "node_5_1482426503106"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "We are closed on @holiday"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Hours of Operation",
+      "context": {},
+      "metadata": {},
+      "conditions": "@holiday:christmas || @holiday:thanksgiving || @holiday:(new years)",
+      "dialog_node": "node_4_1482425833988"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Try again later"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1589289724929",
+      "conditions": "anything_else",
+      "dialog_node": "response_9_1589344621147",
+      "previous_sibling": "response_8_1589289895289"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "\"<?$webhook_result_1.passages[0].passage_text?>\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_7_1589289724929",
+      "conditions": "$webhook_result_1",
+      "dialog_node": "response_8_1589289895289"
+    },
+    {
+      "type": "standard",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "input": "<?input.text?>"
+          },
+          "result_variable": "webhook_result_1"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Product_Information || @heater",
+      "dialog_node": "node_7_1589289724929",
+      "previous_sibling": "node_4_1570050459690",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "What can I do",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I can tell you about our store locations and opening hours, or help you set up an appointment."
+              },
+              {
+                "text": "You could also ask me to connect you to an agent."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Help",
+      "dialog_node": "node_4_1570050459690",
+      "previous_sibling": "node_22_1467833484410"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "metadata": {},
+      "conditions": "#General_Greetings",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_13_1502484041694",
+      "previous_sibling": "Directions"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "So long",
+            "See ya",
+            "Good bye"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#Goodbye",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_12_1468329566917",
+      "previous_sibling": "node_13_1502484041694"
+    },
+    {
+      "type": "standard",
+      "title": "What are your hours?",
+      "output": {},
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1522439390442"
+      },
+      "conditions": "#Customer_Care_Store_Hours",
+      "digress_in": "does_not_return",
+      "dialog_node": "Hours of Operation",
+      "digress_out": "allow_all",
+      "previous_sibling": "Opening"
+    },
+    {
+      "type": "standard",
+      "title": "Where are you located?",
+      "output": {},
+      "metadata": {},
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "#Customer_Care_Store_Location",
+      "digress_in": "does_not_return",
+      "dialog_node": "Directions",
+      "digress_out": "allow_all",
+      "previous_sibling": "Hours of Operation"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "I didn't understand can you try again"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "anything_else",
+      "digress_in": "returns",
+      "dialog_node": "node_2_1467831978407",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_7_1589289724929",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "You're welcome. Just let me know if you need anything else",
+            "No problem. Just let me know if you need anything else",
+            "My pleasure. Just let me know if you need anything else"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#Thanks",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_2_1468243505617",
+      "previous_sibling": "node_12_1468329566917"
+    },
+    {
+      "type": "standard",
+      "title": "Please transfer me to an agent",
+      "output": {
+        "text": {
+          "values": [
+            "Would you like me to transfer you to a representative?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#General_Connect_to_Agent",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_22_1467833484410",
+      "digress_out": "allow_all_never_return",
+      "previous_sibling": "node_2_1468243505617"
+    },
+    {
+      "type": "standard",
+      "title": "Opening",
+      "output": {
+        "text": {
+          "values": [
+            "Hello, I’m a demo customer care virtual assistant to show you the basics.  I can help with directions to my store, hours of operation and booking an in-store appointment"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "context": {
+        "no_reservation": true
+      },
+      "metadata": {},
+      "conditions": "welcome",
+      "dialog_node": "Opening"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "tooling": {
+      "store_generic_responses": true
+    },
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above."
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "Customer Care Sample Skill copy",
+  "language": "en",
+  "description": "Sample simple customer service skill to get you started."
+}
