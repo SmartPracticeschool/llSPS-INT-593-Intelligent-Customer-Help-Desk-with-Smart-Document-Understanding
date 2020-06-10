@@ -11,7 +11,7 @@ Node-Red Dashboard link after deploying : https://node-red-znzdl.eu-gb.mybluemix
 
 
 Youtube video link is : https://youtu.be/tqHZXR5pY0c
-
+Modified video link is: https://drive.google.com/file/d/1sG2-V58CvIdZNxCTmYwLdFqktn2oDO74/view?usp=sharing
 
 
 The flow of node-red will found in NodeREDZNZDL-master/defaults section as flows.json file.
